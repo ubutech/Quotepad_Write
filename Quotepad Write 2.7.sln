@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quotepad Write 2.7", "Quotepad Write 2.5\Quotepad Write 2.7.csproj", "{A85D3DC9-D7ED-415E-AAB5-10F9BABAA886}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Quotepad Write", "Quotepad Write Setup\Quotepad Write Setup.vdproj", "{610B2EDD-6993-4C32-8100-EB8977D2EC04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85D3DC9-D7ED-415E-AAB5-10F9BABAA886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85D3DC9-D7ED-415E-AAB5-10F9BABAA886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85D3DC9-D7ED-415E-AAB5-10F9BABAA886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85D3DC9-D7ED-415E-AAB5-10F9BABAA886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{610B2EDD-6993-4C32-8100-EB8977D2EC04}.Debug|Any CPU.ActiveCfg = Debug
+		{610B2EDD-6993-4C32-8100-EB8977D2EC04}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
